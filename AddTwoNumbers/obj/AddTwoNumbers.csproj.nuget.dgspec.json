@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\AddTwoNumbers\\AddTwoNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\AddTwoNumbers\\AddTwoNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\ConsoleApp\\ConsoleApp.csproj",
-        "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\AddTwoNumbers\\AddTwoNumbers.csproj",
+        "projectName": "AddTwoNumbers",
+        "projectPath": "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\AddTwoNumbers\\AddTwoNumbers.csproj",
         "packagesPath": "C:\\Users\\bdpha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\bdpha\\Source\\Repos\\LeetCodeV2\\AddTwoNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
